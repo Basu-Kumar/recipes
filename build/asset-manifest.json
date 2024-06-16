@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7a74198.css",
+    "main.js": "/static/js/main.7104b4a5.js",
+    "static/media/tasteRecipe.png": "/static/media/tasteRecipe.a240b8ef65ee3d85d60e.png",
+    "index.html": "/index.html",
+    "main.a7a74198.css.map": "/static/css/main.a7a74198.css.map",
+    "main.7104b4a5.js.map": "/static/js/main.7104b4a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7a74198.css",
+    "static/js/main.7104b4a5.js"
+  ]
+}
